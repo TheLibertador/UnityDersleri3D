@@ -1,0 +1,74 @@
+# Exported from Fuse 1.3.0
+
+newmtl Top
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd DoctorModel_Top_diffuse.png
+map_Ks DoctorModel_Top_specular.png
+bump DoctorModel_Top_normal.png
+map_Ns DoctorModel_Top_gloss.png
+
+newmtl Shoes
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd DoctorModel_Shoes_diffuse.png
+map_Ks DoctorModel_Shoes_specular.png
+bump DoctorModel_Shoes_normal.png
+map_Ns DoctorModel_Shoes_gloss.png
+
+newmtl Bottom
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd DoctorModel_Bottom_diffuse.png
+map_Ks DoctorModel_Bottom_specular.png
+bump DoctorModel_Bottom_normal.png
+map_Ns DoctorModel_Bottom_gloss.png
+
+newmtl Hat
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd DoctorModel_Hat_diffuse.png
+map_Ks DoctorModel_Hat_specular.png
+bump DoctorModel_Hat_normal.png
+map_Ns DoctorModel_Hat_gloss.png
+
+newmtl Mask
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd DoctorModel_Mask_diffuse.png
+map_Ks DoctorModel_Mask_specular.png
+bump DoctorModel_Mask_normal.png
+map_Ns DoctorModel_Mask_gloss.png
+
+newmtl Body
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd DoctorModel_Body_diffuse.png
+map_Ks DoctorModel_Body_specular.png
+bump DoctorModel_Body_normal.png
+map_Ns DoctorModel_Body_gloss.png
+
